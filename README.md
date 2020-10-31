@@ -106,7 +106,7 @@ calculation for a specific procedure.
 is taking place (couple of minutes tops) :)
 
 4. Once your calculation is complete, it would be useful to save such
->evaluated< notebook under a name which corresponds to your geometric
+evaluated notebook under a name which corresponds to your geometric
 model - all results will be saved, and you REALLY want the manu with 
 list of results to be saved, so you can access it any time in the future.
 
