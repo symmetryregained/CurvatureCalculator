@@ -118,5 +118,4 @@ so that we can have ever-growing database of metrics and curvatures.
 6. You are absolutely obliged to share, improve, upgrade, sofisticate
 this program and help the growth of the database. ;)
 
-7. Check the link before you want to use your calculator again, improvement
-is ongoing.
+7. Enjoy! :)
