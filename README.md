@@ -5,6 +5,8 @@ Welcome to Curvature Calculator!
 
 You choose a metric and a vielbein in any dimension. Curvature Calculator calculates all curvatures for you.
 
+![Results Menu Interface](/img1_Sch_adv.png)
+
 ## Instructions for installation
 
 Make sure you have Wolfram Mathematica 10 or above. 
