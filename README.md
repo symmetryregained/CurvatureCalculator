@@ -3,7 +3,7 @@ A set of Wolfram Mathematica notebooks for calculating curvature tensors from a 
 
 Welcome to Curvature Calculator!
 
-You choose a metric and a vielbein in any dimension. Curvature Calculator calculates all curvatures for you.
+You choose a metric and a vielbein in any dimension. Curvature Calculator calculates all connections, curvatures and basic curvature invariants for you.
 
 ![Results Menu Interface](/img1_Sch_adv.png)
 
