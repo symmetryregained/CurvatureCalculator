@@ -1,4 +1,4 @@
-# CurvatureCalulator
+# CurvatureCalculator
 A set of Wolfram Mathematica notebooks for calculating curvature tensors from a given metric and vielbein.
 
 Welcome to Curvature Calculator!
